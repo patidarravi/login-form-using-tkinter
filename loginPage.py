@@ -73,8 +73,6 @@ contact_no = Label(root, text="Contact No.", bg="light green")
 # create a Email id label
 email_id = Label(root, text="Email id", bg="light green")
 
-# create a address label
-address = Label(root, text="Address", bg="light green")
 
 # grid method is used for placing
 # the widgets at respective positions
